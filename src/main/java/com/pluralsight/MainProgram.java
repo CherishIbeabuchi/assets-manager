@@ -18,11 +18,11 @@ public class MainProgram {
                 2, 250000, 650000));
 
         //? My Vehicles
-        cherishAssets.add(new Vehicle("Cherish's Car", "01/13/2021",
+        cherishAssets.add(new Vehicle("Cherish's Car", "01-13-2021",
                 new BigDecimal("5500"), "Hyundai Accent", 143125, 2021));
 
         //? I had to get an upgrade Whew
-        cherishAssets.add(new Vehicle("Cherish's Brand new car", "01/13/2027",
+        cherishAssets.add(new Vehicle("Cherish's Brand new car", "01-13-2027",
                 new BigDecimal("47000"), "Tesla Model Y", 0, 2027));
 
         //? Fancy Header

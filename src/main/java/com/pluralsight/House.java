@@ -2,7 +2,7 @@ package com.pluralsight;
 
 import java.math.BigDecimal;
 
-//! The House class inherits common asset infromation from Asset
+//! The House class inherits common asset information from Asset
 public class House extends Asset{
 
     private String address; //* Stores the house address
